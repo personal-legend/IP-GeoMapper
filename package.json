@@ -1,0 +1,11 @@
+{
+  "name": "@ip-geo-mapper/source",
+  "version": "0.0.0",
+  "license": "MIT",
+  "scripts": {},
+  "private": true,
+  "dependencies": {},
+  "devDependencies": {
+    "nx": "13.7.1"
+  }
+}
